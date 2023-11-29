@@ -6,3 +6,6 @@ Jira,qase.io,SQL, Postman,Fiddler, Swagger, Trello, SoapUI, Android Studio, xCod
 Тестирование личных событий в расписании Skyeng: https://iananikolaeva.atlassian.net/wiki/spaces/~71202099d0a17ed549496abd20bc9094d07334/pages/917506/1+2
 
 Решение тестового задания: [Тестовое задание.xlsx](https://github.com/iananikolaeva/-/files/13496755/default.xlsx)
+# Контактная информация:
+Email:iananikolaeva844@gmail.com 
+Телеграм: https://t.me/iananikolaeva844
