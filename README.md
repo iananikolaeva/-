@@ -8,4 +8,5 @@ Jira,qase.io,SQL, Postman,Fiddler, Swagger, Trello, SoapUI, Android Studio, xCod
 Решение тестового задания: [Тестовое задание.xlsx](https://github.com/iananikolaeva/-/files/13496755/default.xlsx)
 # Контактная информация:
 Email:iananikolaeva844@gmail.com 
+
 Телеграм: https://t.me/iananikolaeva844
